@@ -10,6 +10,7 @@ Source0:	http://download.github.com/topfunky-%{name}-v%{version}-0-ga401a7d.tar.
 URL:		http://ruby-hmac.rubyforge.org/
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.656
+Provides:	ruby-ruby-hmac = %{version}-%{release}
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
