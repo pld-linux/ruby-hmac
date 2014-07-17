@@ -2,7 +2,7 @@
 Summary:	An implementation of the HMAC authentication code in Ruby
 Name:		ruby-hmac
 Version:	0.4.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Tools
 Source0:	http://download.github.com/topfunky-%{name}-v%{version}-0-ga401a7d.tar.gz
